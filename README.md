@@ -1,5 +1,5 @@
-# Pruebas_Tyba
-test de QA Engineer para Tyba
+# Pruebas
+test de QA Engineer
 
 
 Para este proyecro  se utilizo la herramienta  Katalon, la cual es una herramienta open source utilizada para la automatización de pruebas  sobre aplicaciones web,
